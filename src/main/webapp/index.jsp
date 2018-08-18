@@ -1,4 +1,7 @@
 <html>
+<head>
+<title>Devops by Yamoksh</title>
+</head>
 <body>
 <form action="index.jsp" method="POST">
 	
@@ -37,5 +40,6 @@
 	%>
 	
 </form>
+
 </body>
 </html>
